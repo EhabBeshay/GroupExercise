@@ -1,2 +1,4 @@
-package Project1;public class Task1 {
+package Project1;
+
+public class Task1 {
 }
